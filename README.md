@@ -1,13 +1,16 @@
-# Python Django Template
+# Python Django Chanrider
 
 ## About The Project
 
-This project was completed as part of `Writing your first Django app` form `Django documentation`. I am tasked to make full use of Django and Python knowledge and its accompanying documentation to create an APIs for polls and vote.
+This project was completed as part of `Writing your first Django app` form `Zinglecode`. I am tasked to make full use of Django and Python knowledge and its accompanying documentation to create an website for sale ice cream.
 
 ## Technologies
 
 This project was created with:
 
+- HTML5
+- CSS3
+- Bootstrap5
 - Python
 - Django
 - PostgreSQL
@@ -19,7 +22,7 @@ This project was created with:
 Clone the project
 
 ```sh
-git clone https://github.com/SupTarr/Python-Django-Template
+git clone https://github.com/SupTarr/Django-chanrider
 ```
 
 ### Set up Python and packages
